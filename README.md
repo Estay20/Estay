@@ -17,7 +17,7 @@
 
 ## Установка
 
-git clone
-composer install
-php artisan migrate
+git clone,
+composer install,
+php artisan migrate,
 php artisan serve
